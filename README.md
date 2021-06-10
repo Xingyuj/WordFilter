@@ -1,4 +1,4 @@
-## Ethan UMS Service Api
+## Word Filter
 
 ### How to start
 Download repo
